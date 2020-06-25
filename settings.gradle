@@ -1,0 +1,2 @@
+rootProject.name='ConsultaREST'
+include ':app'

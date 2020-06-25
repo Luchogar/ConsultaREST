@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsultaREST</string>
+    <string name="rub">rub</string>
+    <string name="usd">usd</string>
+</resources>
